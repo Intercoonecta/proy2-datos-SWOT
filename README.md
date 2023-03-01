@@ -36,6 +36,10 @@ Otras veces
 - cd <carpeta>
 - git init
 - git branch
+
+(deberia salir al asterisco al lado de su branch)
+
+- git pull
 - git checkout <nombre-branch>
 - git add <fichero_cambiado_o_nuevo>
 - git commit -m "<mensaje_breve_del_cambio>"
