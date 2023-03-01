@@ -24,8 +24,8 @@ Primera vez
 - cd carpeta
 - git init
 - git branch
-- git branch <nombre-branch>
-- git checkout <nombre-branch>
+- git branch <nombre_branch>
+- git checkout <nombre_branch>
 - git branch
 - git add <fichero_cambiado_o_nuevo>
 - git commit -m "<mensaje_breve_del_cambio>"
