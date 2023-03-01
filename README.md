@@ -21,24 +21,23 @@ Los pasos en () solo para la primera vez que se haga push
 ### Instrucciones usando branches
 
 Primera vez
-cd <carpeta>
-git init
-git clone repo
-git branch
-git branch <nombre-branch>
-git checkout <nombre-branch>
-git branch
-git add Pedro.png 
-git commit -m “dsgdsfh"
-git push origin dev-LGN (not git push!!!)
-then from website do pull request
+- cd carpeta
+- git init
+- git branch
+- git branch <nombre-branch>
+- git checkout <nombre-branch>
+- git branch
+- git add <fichero_cambiado_o_nuevo>
+- git commit -m "<mensaje_breve_del_cambio>"
+- git push origin dev-LGN (not git push!!!)
+- then from website do pull request
 
 Otras veces
-cd <carpeta>
-git init
-git branch
-git checkout name_branch
-git add <fichero_cambiado_o_nuevo>
-git commit -m "<mensaje_breve_del_cambio>"
-git push origin <nombre-branch> 
-desde la página web del repositorio (aquí) haver un "pull request"
+- cd <carpeta>
+- git init
+- git branch
+- git checkout <nombre-branch>
+- git add <fichero_cambiado_o_nuevo>
+- git commit -m "<mensaje_breve_del_cambio>"
+- git push origin <nombre-branch> 
+- desde la página web del repositorio (aquí) haver un "pull request"
