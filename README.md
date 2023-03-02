@@ -29,8 +29,9 @@ Primera vez
 - git branch
 - git add <fichero_cambiado_o_nuevo>
 - git commit -m "<mensaje_breve_del_cambio>"
-- git push origin dev-LGN (not git push!!!)
-- then from website do pull request
+- git push origin <nombre_branch> 
+    (¡¡¡No git push!!!)
+- desde la página web del repositorio (aquí) haver un "pull request"
 
 Otras veces
 - cd <carpeta>
