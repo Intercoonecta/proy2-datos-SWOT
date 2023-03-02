@@ -20,7 +20,7 @@ Los pasos en () solo para la primera vez que se haga push
     
 ### Instrucciones usando branches
 
-Primera vez
+**Primera vez**
 - cd carpeta
 - git init
 - git branch
@@ -30,10 +30,12 @@ Primera vez
 - git add <fichero_cambiado_o_nuevo>
 - git commit -m "<mensaje_breve_del_cambio>"
 - git push origin <nombre_branch> 
-    (¡¡¡No git push!!!)
+    
+(¡¡¡No git push!!!)
+   
 - desde la página web del repositorio (aquí) haver un "pull request"
 
-Otras veces
+**Otras veces**
 - cd <carpeta>
 - git init
 - git branch
