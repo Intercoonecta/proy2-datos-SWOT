@@ -9,7 +9,7 @@
 ## Instrucciones para añadir cambios a github
 Los pasos en () solo para la primera vez que se haga push
 
-- cd <carpeta>
+- cd <_carpeta>
 - git init
 - git pull
 - git add <fichero_cambiado_o_nuevo>
@@ -21,7 +21,7 @@ Los pasos en () solo para la primera vez que se haga push
 ### Instrucciones usando branches
 
 **Primera vez**
-- cd <carpeta>
+- cd <_carpeta>
 - git init
 - git branch
 - git branch <nombre_branch>
@@ -36,7 +36,7 @@ Los pasos en () solo para la primera vez que se haga push
 - desde la página web del repositorio (aquí) haver un "pull request"
 
 **Otras veces**
-- cd <carpeta>
+- cd <_carpeta>
 - git init
 - git branch
 
