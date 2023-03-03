@@ -21,7 +21,7 @@ Los pasos en () solo para la primera vez que se haga push
 ### Instrucciones usando branches
 
 **Primera vez**
-- cd carpeta
+- cd <carpeta>
 - git init
 - git branch
 - git branch <nombre_branch>
